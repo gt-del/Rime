@@ -1,8 +1,29 @@
 __build_info:
-  rime_version: 1.13.0
+  rime_version: 1.16.0
   timestamps:
     squirrel: 1765799392
-    squirrel.custom: 1765854480
+    squirrel.custom: 1775386103
+app_options:
+  com.apple.Terminal:
+    ascii_mode: true
+  com.googlecode.iterm2:
+    ascii_mode: true
+  com.jetbrains.goland:
+    ascii_mode: true
+  com.jetbrains.intellij:
+    ascii_mode: true
+  com.jetbrains.pycharm:
+    ascii_mode: true
+  com.jetbrains.webstorm:
+    ascii_mode: true
+  com.microsoft.VSCode:
+    ascii_mode: true
+  com.raycast.macos:
+    ascii_mode: true
+  "dev.warp.Warp-Stable":
+    ascii_mode: true
+  org.alacritty:
+    ascii_mode: true
 chord_duration: 0.1
 config_version: "2025-10-23"
 keyboard_layout: last

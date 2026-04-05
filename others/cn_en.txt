@@ -511,3 +511,99 @@ VIP中P
 city不city
 打call
 hold住
+Claude Code工作流
+Claude Code提示词
+Claude Code任务
+Claude Code命令
+MCP协议
+MCP 协议
+MCP服务
+MCP 服务
+MCP服务器
+MCP客户端
+MCP工具
+AI编程
+AI 编程
+AI编码
+RAG工作流
+RAG 系统
+Cursor规则
+Cursor工作流
+Cursor配置
+Zed编辑器
+Ghostty终端
+Raycast插件
+Raycast脚本
+Raycast工作流
+Homebrew配方
+Homebrew安装
+Dev Container配置
+Compose文件
+worktree工作流
+worktree分支
+Shell补全
+K8s集群
+Kubernetes集群
+Redis集群
+Redis缓存
+Redis连接池
+MySQL索引
+MySQL事务
+MySQL慢查询
+PostgreSQL索引
+PostgreSQL事务
+Kafka消息
+Kafka消费者
+Kafka生产者
+Docker镜像
+Docker容器
+Nginx反向代理
+OpenAPI文档
+Swagger文档
+JWT鉴权
+JWT令牌
+gRPC服务
+RPC调用
+Prometheus监控
+Grafana面板
+Elasticsearch索引
+ClickHouse查询
+API网关
+HTTP接口
+HTTP请求
+HTTP响应
+HTTPS证书
+TCP连接
+UDP端口
+DNS解析
+REST接口
+GraphQL接口
+OAuth登录
+OAuth鉴权
+Webhook回调
+CI流水线
+CD流水线
+K8s部署
+K8s服务
+Pod重启
+Pod调度
+Service发现
+Ingress规则
+Helm Chart
+CronJob任务
+BFF服务
+OpenTelemetry链路
+OpenTelemetry埋点
+ELK日志
+Kafka主题
+Kafka分区
+Kafka偏移量
+Redis哨兵
+Redis主从
+MySQL主从
+Nginx配置
+Dockerfile模板
+gRPC网关
+JWT续签
+S3存储
+MinIO桶

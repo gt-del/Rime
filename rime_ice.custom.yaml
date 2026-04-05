@@ -1,4 +1,42 @@
 patch:
+  # 后端开发高频词的候选顺序微调
+  pin_cand_filter/+:
+    - 'jie kou	接口'
+    - 'jie kou wen dang	接口文档'
+    - 'jian quan	鉴权'
+    - 'miao deng	幂等'
+    - 'jwt	JWT'
+    - 'grpc	gRPC'
+    - 'rpc	RPC'
+    - 'openapi	OpenAPI'
+    - 'swagger	Swagger'
+    - 'kafka	Kafka'
+    - 'redis	Redis'
+    - 'mysql	MySQL'
+    - 'postgresql	PostgreSQL'
+    - 'nginx	Nginx'
+    - 'clickhouse	ClickHouse'
+    - 'rabbitmq	RabbitMQ'
+    - 'rocketmq	RocketMQ'
+    - 'minio	MinIO'
+    - 's3	S3'
+    - 'prometheus	Prometheus'
+    - 'grafana	Grafana'
+    - 'elasticsearch	Elasticsearch'
+    - 'shi wu	事务'
+    - 'suo yin	索引'
+    - 'fan xiang dai li	反向代理'
+    - 'fen bu shi zhui zong	分布式追踪'
+    - 'ke guan ce ping tai	可观测平台'
+    - 'xian liu jiang ji	限流降级'
+    - 'rong duan jiang ji	熔断降级'
+    - 'xiao xi dui ji	消息堆积'
+    - 'yan chi dui lie	延迟队列'
+    - 'lian jie chi	连接池'
+    - 'lian jie chi hao jin	连接池耗尽'
+    - 'you ya ting ji	优雅停机'
+    - 'lan lv bu shu	蓝绿部署'
+
   # 拼写设定
   speller:
     # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射

@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 个人专有英文词：
+# - 用于项目代号、内部工具名、个人高频英文术语
+# - 放在 en_user_extra 前面，优先级高于通用补充层
+#
+
+---
+name: en_user_personal
+version: "2026-04-05"
+sort: by_weight
+...

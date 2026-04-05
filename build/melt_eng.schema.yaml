@@ -1,8 +1,8 @@
 __build_info:
-  rime_version: 1.13.0
+  rime_version: 1.16.0
   timestamps:
     default: 1765799392
-    default.custom: 1765854623
+    default.custom: 1775403454
     melt_eng.custom: 0
     melt_eng.schema: 1765799392
 algebra_abc:

@@ -1003,3 +1003,193 @@ VIP中P	vipzhongp
 city不city	citybucity
 打call	dacall
 hold住	holdzhu
+Claude Code工作流	ClaudeCodegongzuoliu
+Claude Code工作流	claudecodegongzuoliu
+Claude Code提示词	ClaudeCodetishici
+Claude Code提示词	claudecodetishici
+Claude Code任务	ClaudeCoderenwu
+Claude Code任务	claudecoderenwu
+Claude Code命令	ClaudeCodemingling
+Claude Code命令	claudecodemingling
+MCP协议	MCPxieyi
+MCP协议	mcpxieyi
+MCP 协议	MCPxieyi
+MCP 协议	mcpxieyi
+MCP服务	MCPfuwu
+MCP服务	mcpfuwu
+MCP 服务	MCPfuwu
+MCP 服务	mcpfuwu
+MCP服务器	MCPfuwuqi
+MCP服务器	mcpfuwuqi
+MCP客户端	MCPkehuduan
+MCP客户端	mcpkehuduan
+MCP工具	MCPgongju
+MCP工具	mcpgongju
+AI编程	AIbiancheng
+AI编程	aibiancheng
+AI 编程	AIbiancheng
+AI 编程	aibiancheng
+AI编码	AIbianma
+AI编码	aibianma
+RAG工作流	RAGgongzuoliu
+RAG工作流	raggongzuoliu
+RAG 系统	RAGxitong
+RAG 系统	ragxitong
+Cursor规则	Cursorguize
+Cursor规则	cursorguize
+Cursor工作流	Cursorgongzuoliu
+Cursor工作流	cursorgongzuoliu
+Cursor配置	Cursorpeizhi
+Cursor配置	cursorpeizhi
+Zed编辑器	Zedbianjiqi
+Zed编辑器	zedbianjiqi
+Ghostty终端	Ghosttyzhongduan
+Ghostty终端	ghosttyzhongduan
+Raycast插件	Raycastchajian
+Raycast插件	raycastchajian
+Raycast脚本	Raycastjiaoben
+Raycast脚本	raycastjiaoben
+Raycast工作流	Raycastgongzuoliu
+Raycast工作流	raycastgongzuoliu
+Homebrew配方	Homebrewpeifang
+Homebrew配方	homebrewpeifang
+Homebrew安装	Homebrewanzhuang
+Homebrew安装	homebrewanzhuang
+Dev Container配置	DevContainerpeizhi
+Dev Container配置	devcontainerpeizhi
+Compose文件	Composewenjian
+Compose文件	composewenjian
+worktree工作流	worktreegongzuoliu
+worktree分支	worktreefenzhi
+Shell补全	Shellbuquan
+Shell补全	shellbuquan
+K8s集群	K8sjiqun
+K8s集群	k8sjiqun
+Kubernetes集群	Kubernetesjiqun
+Kubernetes集群	kubernetesjiqun
+Redis集群	Redisjiqun
+Redis集群	redisjiqun
+Redis缓存	Redishuancun
+Redis缓存	redishuancun
+Redis连接池	Redislianjiechi
+Redis连接池	redislianjiechi
+MySQL索引	MySQLsuoyin
+MySQL索引	mysqlsuoyin
+MySQL事务	MySQLshiwu
+MySQL事务	mysqlshiwu
+MySQL慢查询	MySQLmanchaxun
+MySQL慢查询	mysqlmanchaxun
+PostgreSQL索引	PostgreSQLsuoyin
+PostgreSQL索引	postgresqlsuoyin
+PostgreSQL事务	PostgreSQLshiwu
+PostgreSQL事务	postgresqlshiwu
+Kafka消息	Kafkaxiaoxi
+Kafka消息	kafkaxiaoxi
+Kafka消费者	Kafkaxiaofeizhe
+Kafka消费者	kafkaxiaofeizhe
+Kafka生产者	Kafkashengchanzhe
+Kafka生产者	kafkashengchanzhe
+Docker镜像	Dockerjingxiang
+Docker镜像	dockerjingxiang
+Docker容器	Dockerrongqi
+Docker容器	dockerrongqi
+Nginx反向代理	Nginxfanxiangdaili
+Nginx反向代理	nginxfanxiangdaili
+OpenAPI文档	OpenAPIwendang
+OpenAPI文档	openapiwendang
+Swagger文档	Swaggerwendang
+Swagger文档	swaggerwendang
+JWT鉴权	JWTjianquan
+JWT鉴权	jwtjianquan
+JWT令牌	JWTlingpai
+JWT令牌	jwtlingpai
+gRPC服务	gRPCfuwu
+gRPC服务	grpcfuwu
+RPC调用	RPCdiaoyong
+RPC调用	rpcdiaoyong
+Prometheus监控	Prometheusjiankong
+Prometheus监控	prometheusjiankong
+Grafana面板	Grafanamianban
+Grafana面板	grafanamianban
+Elasticsearch索引	Elasticsearchsuoyin
+Elasticsearch索引	elasticsearchsuoyin
+ClickHouse查询	ClickHousechaxun
+ClickHouse查询	clickhousechaxun
+API网关	APIwangguan
+API网关	apiwangguan
+HTTP接口	HTTPjiekou
+HTTP接口	httpjiekou
+HTTP请求	HTTPqingqiu
+HTTP请求	httpqingqiu
+HTTP响应	HTTPxiangying
+HTTP响应	httpxiangying
+HTTPS证书	HTTPSzhengshu
+HTTPS证书	httpszhengshu
+TCP连接	TCPlianjie
+TCP连接	tcplianjie
+UDP端口	UDPduankou
+UDP端口	udpduankou
+DNS解析	DNSjiexi
+DNS解析	dnsjiexi
+REST接口	RESTjiekou
+REST接口	restjiekou
+GraphQL接口	GraphQLjiekou
+GraphQL接口	graphqljiekou
+OAuth登录	OAuthdenglu
+OAuth登录	oauthdenglu
+OAuth鉴权	OAuthjianquan
+OAuth鉴权	oauthjianquan
+Webhook回调	Webhookhuidiao
+Webhook回调	webhookhuidiao
+CI流水线	CIliushuixian
+CI流水线	ciliushuixian
+CD流水线	CDliushuixian
+CD流水线	cdliushuixian
+K8s部署	K8sbushu
+K8s部署	k8sbushu
+K8s服务	K8sfuwu
+K8s服务	k8sfuwu
+Pod重启	Podchongqi
+Pod重启	podchongqi
+Pod调度	Poddiaodu
+Pod调度	poddiaodu
+Service发现	Servicefaxian
+Service发现	servicefaxian
+Ingress规则	Ingressguize
+Ingress规则	ingressguize
+Helm Chart	HelmChart
+Helm Chart	helmchart
+CronJob任务	CronJobrenwu
+CronJob任务	cronjobrenwu
+BFF服务	BFFfuwu
+BFF服务	bfffuwu
+OpenTelemetry链路	OpenTelemetrylianlu
+OpenTelemetry链路	opentelemetrylianlu
+OpenTelemetry埋点	OpenTelemetrymaidian
+OpenTelemetry埋点	opentelemetrymaidian
+ELK日志	ELKrizhi
+ELK日志	elkrizhi
+Kafka主题	Kafkazhuti
+Kafka主题	kafkazhuti
+Kafka分区	Kafkafenqu
+Kafka分区	kafkafenqu
+Kafka偏移量	Kafkapianyiliang
+Kafka偏移量	kafkapianyiliang
+Redis哨兵	Redisshaobing
+Redis哨兵	redisshaobing
+Redis主从	Rediszhucong
+Redis主从	rediszhucong
+MySQL主从	MySQLzhucong
+MySQL主从	mysqlzhucong
+Nginx配置	Nginxpeizhi
+Nginx配置	nginxpeizhi
+Dockerfile模板	Dockerfilemuban
+Dockerfile模板	dockerfilemuban
+gRPC网关	gRPCwangguan
+gRPC网关	grpcwangguan
+JWT续签	JWTxuqian
+JWT续签	jwtxuqian
+S3存储	S3cunchu
+S3存储	s3cunchu
+MinIO桶	MinIOtong
+MinIO桶	miniotong

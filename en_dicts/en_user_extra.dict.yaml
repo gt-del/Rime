@@ -1,0 +1,35 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 本地补充的英文工具词
+#
+
+---
+name: en_user_extra
+version: "2026-04-05"
+sort: by_weight
+...
+Claude Code	ClaudeCode
+Copilot Chat	CopilotChat
+Cursor	Cursor
+Cursor Rule	CursorRule
+Cursor Rules	CursorRules
+Dev Container	DevContainer
+Docker Compose	DockerCompose
+Git worktree	GitWorktree
+JWT	JWT
+Kafka	Kafka
+MCP	MCP
+MCP Client	MCPClient
+MCP Server	MCPServer
+MinIO	MinIO
+OpenAPI	OpenAPI
+RAG	RAG
+RabbitMQ	RabbitMQ
+RocketMQ	RocketMQ
+RPC	RPC
+S3	S3
+Swagger	Swagger
+gRPC	gRPC
+Zed	Zed
+ClickHouse	ClickHouse
