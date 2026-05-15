@@ -36,6 +36,8 @@ patch:
     - 'lian jie chi hao jin	连接池耗尽'
     - 'you ya ting ji	优雅停机'
     - 'lan lv bu shu	蓝绿部署'
+    - 's	是 s9489579@gmail.com'
+    - 'a	啊 a473239038@gmail.com'
 
   # 拼写设定
   speller:
